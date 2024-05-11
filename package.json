@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "main": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
